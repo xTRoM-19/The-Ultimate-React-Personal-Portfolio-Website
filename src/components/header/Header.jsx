@@ -1,6 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
+import Me from '../../assets/me.png'
 
 const Header = () => {
   return (
@@ -12,6 +13,14 @@ const Header = () => {
           Fullstack Developer
         </h5>
         <CTA/>
+        
+        <div className='me'>
+          <img src={Me} alt='me'></img>
+        </div>
+
+        <a href='#contact' className='scroll__down'>
+          Scroll Down
+        </a>
       </div>
     </header> 
   )
