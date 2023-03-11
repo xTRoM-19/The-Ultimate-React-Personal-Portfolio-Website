@@ -18,19 +18,87 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon'/>
               <p>.........................</p>
-
-              <BiCheck className='service__list-icon'/>
-              <p>.........................</p>
-              
-              <BiCheck className='service__list-icon'/>
-              <p>.........................</p>
-
-              <BiCheck className='service__list-icon'/>
-              <p>.........................</p>
-
+            </li>
+            <li>
               <BiCheck className='service__list-icon'/>
               <p>.........................</p>
             </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+          </ul>
+        </article>
+
+        {/* END OF UI/UI */}
+        <article className='service'>
+          <div className='service__head'>
+            <h3>Web Development</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li><li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+          </ul>
+        </article>
+
+        {/* Web Development */}
+        <article className='service'>
+          <div className='service__head'>
+            <h3> Content Creation </h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>.........................</p>
+            </li>
+            
           </ul>
         </article>
       </div>
